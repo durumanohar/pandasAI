@@ -9,7 +9,7 @@ load_dotenv()
 
 
 #openai_api_key = os.getenv("OPENAI_API_KEY")
-openai_api_key="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"
+
 
 
 def chat_with_csv(df,prompt):
